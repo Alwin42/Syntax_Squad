@@ -5,7 +5,7 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+It is a travel booking and guidance website which helps user to plan trips and book hotels and organize activities through it. 
 ## Team members
 1. [Alwin Emmanuel](https://github.com/Alwin42)
 2. [Allen Jude](https://github.com/Ajallen14)
